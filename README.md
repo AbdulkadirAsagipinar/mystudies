@@ -12,3 +12,5 @@ Pandas, Matplotlib ,Tkinter, Datetime kütüphaneleri kullanılmıştır.
 
 "https://www.kaggle.com/datasets/tanuprabhu/population-by-country-2020" daki ülkelerin 
 1960-2020 yılları arası popülasyonlarını içeren dataseti kullanarak yapılmıştır.
+
+![Plot_graph](https://github.com/AbdulkadirAsagipinar/mystudies/assets/104994006/a5784498-4ef2-4e31-a487-14ca4b67588a)
